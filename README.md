@@ -1,3 +1,6 @@
+#TFM Notes
+
+Some concepts that the students might struggle with is facing more stress points in their data sets when introducing new language. When diving into phase 3 stress test and breaking the model, I chose to improve how my machine interpreted sarcasm. This led to many more errors than I initially pinpointed, but it was a clear indicator that my data set needed improvements. Working on the ML version of the tinker was super beneficial and students can ask clarifying questions to their respective AI agents. I had many questions and found that this phase had the best responses given by the AI.
 # The Mood Machine
 
 The Mood Machine is a simple text classifier that begins with a rule based approach and can optionally be extended with a small machine learning model. It tries to guess whether a short piece of text sounds **positive**, **negative**, **neutral**, or even **mixed** based on patterns in your data.
